@@ -1,0 +1,59 @@
+{
+  "Surface": {
+    "Hauteur": 14,
+    "Largeur": 38
+  },
+  "Robot": [
+    {
+      "Nom": "Wallyd",
+      "Symbole": "W",
+      "Couleur": "Red",
+      "Catégorie": "Métal"
+    },
+    {
+      "Nom": "Bart",
+      "Symbole": "B",
+      "Couleur": "Blue",
+      "Catégorie": "Plastique"
+    },
+    {
+      "Nom": "Charles",
+      "Symbole": "C",
+      "Couleur": "Yellow",
+      "Catégorie": "Organique"
+    },
+    {
+      "Nom": "Lisa",
+      "Symbole": "L",
+      "Couleur": "Green",
+      "Catégorie": "Nucléaire"
+    }
+  ],
+  "CatégorieDéchet": [
+    {
+      "NbDéchetsParCat": 5,
+      "Symbole": "%",
+      "Catégorie": "Métal"
+    },
+    {
+      "NbDéchetsParCat": 10,
+      "Symbole": "*",
+      "Catégorie": "Plastique"
+    },
+    {
+      "NbDéchetsParCat": 10,
+      "Symbole": "$",
+      "Catégorie": "Nucléaire"
+    },
+    {
+      "NbDéchetsParCat": 10,
+      "Symbole": "@",
+      "Catégorie": "Organique"
+    },
+    {
+      "NbDéchetsParCat": 5,
+      "Symbole": "?",
+      "Catégorie": "Métal"
+    }
+  ]
+}
